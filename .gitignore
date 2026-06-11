@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+*.log
+prisma/prod.db
+prisma/prod.db-journal
+prisma/migrations/
